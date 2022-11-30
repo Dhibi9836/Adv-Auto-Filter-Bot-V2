@@ -4,13 +4,12 @@ then
 
   echo "Cloning main Repository"
 
-  git clone https://github.com/GreyMatterbots/url-auto-delete-shortener-bot /Eva
-
+  git clone https://github.com/Dhibi9836/Adv-Auto-Filter-Bot-V2
 else
 
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
 
-  git clone $UPSTREAM_REPO /Eva
+  git clone $UPSTREAM_REPO /main
 
 fi
 
