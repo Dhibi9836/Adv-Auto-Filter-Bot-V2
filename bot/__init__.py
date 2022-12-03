@@ -15,8 +15,7 @@ APP_ID = int(os.environ.get(5530754))
 
 API_HASH = os.environ.get("5e51ecf5945605c711fffe7b376fa2a8")
 
-BOT_TOKEN = os.environ.get("5694714864:AAHBWW5y2eZ-6xyGuygZOxhLWV5CxaA40HU
-")
+BOT_TOKEN = os.environ.get("5694714864:AAHBWW5y2eZ-6xyGuygZOxhLWV5CxaA40HU")
 
 DB_URI = os.environ.get("mongodb+srv://123:123@cluster0.jypxi61.mongodb.net/test")
 
